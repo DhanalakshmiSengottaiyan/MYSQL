@@ -1,0 +1,1 @@
+In this project, sales data of Walmart is analysed based on the product, sales and customer perspective. SQL is used for analysis. Aggregate functions, window analytic functions were used for decoding the dataset.
